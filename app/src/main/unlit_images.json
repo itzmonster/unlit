@@ -1,0 +1,58 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Alphabet"
+            },
+            {
+                "name": "Space"
+            },
+            {
+                "name": "Typography"
+            },
+            {
+                "name": "Abstract"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Modern"
+            },
+            {
+                "name": "Sci-Fi"
+            },
+            {
+                "name": "Pattern"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Material"
+            },
+            {
+                "name": "Landscape"
+            },
+            {
+                "name": "Super Hero"
+            },
+            {
+                "name": "Minimal"
+            },
+            {
+                "name": "Misc"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "BuzzMoy",
+				"url": "https://github.com/itzmonster/unlit/blob/master/app/src/main/res/mipmap-hdpi/candle_001.jpg",
+				"thumbUrl": "https://github.com/itzmonster/unlit/blob/master/app/src/main/res/mipmap-hdpi/candle_001.jpg",
+				"name": "Candle",
+                "category": "misc,minimal"
+			},
+		]
+}
